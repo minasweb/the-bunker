@@ -159,7 +159,7 @@ footer p { margin-bottom: 0.2rem; }
 /* SM - max-width in pixels approximately 768px */
 @media (max-width: 48em) {
 
-    .hide-sm { display: none; }
+    .bg-sheets.hide-sm { display: none; }
     .flex-flip-sm { flex-direction: column-reverse; }
 
     h1 { font-size: 4rem; }
